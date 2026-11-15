@@ -1,0 +1,51 @@
+{
+  "acuracia_teste": 0.9549,
+  "f1_macro_teste": 0.9645,
+  "por_pessoa": {
+    "Ariel Sharon": {
+      "precisao": 1.0,
+      "recall": 1.0,
+      "fotos_teste": 11
+    },
+    "Colin Powell": {
+      "precisao": 0.917,
+      "recall": 0.957,
+      "fotos_teste": 23
+    },
+    "Donald Rumsfeld": {
+      "precisao": 0.947,
+      "recall": 0.947,
+      "fotos_teste": 19
+    },
+    "George W Bush": {
+      "precisao": 0.917,
+      "recall": 0.957,
+      "fotos_teste": 23
+    },
+    "Gerhard Schroeder": {
+      "precisao": 0.941,
+      "recall": 1.0,
+      "fotos_teste": 16
+    },
+    "Hugo Chavez": {
+      "precisao": 1.0,
+      "recall": 1.0,
+      "fotos_teste": 10
+    },
+    "Junichiro Koizumi": {
+      "precisao": 1.0,
+      "recall": 1.0,
+      "fotos_teste": 9
+    },
+    "Tony Blair": {
+      "precisao": 1.0,
+      "recall": 0.864,
+      "fotos_teste": 22
+    }
+  },
+  "fotos": {
+    "treino": 617,
+    "validacao": 132,
+    "teste": 133
+  }
+}
